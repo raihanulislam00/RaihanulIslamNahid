@@ -4,10 +4,10 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2vvSha0UzcXMM4lDGJJaYw?color=%23FFFFFF&logo=Youtube&logoColor=%23FF0000&style=plastic)
  <img src="https://komarev.com/ghpvc/?username=TamimEhsan">
 
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TamimEhsan.TamimEhsan) -->
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RaihanulIslamNahid.RaihanulIslamNahid) -->
 
 <!-- [![leetcode](https://cp-logo.vercel.app/leetcode/nskybytskyi?logo=true)](https://leetcode.com/nskybytskyi/)
-[![codeforces](https://cp-logo.vercel.app/codeforces/Skybytskyi.Nikita?logo=true)](https://codeforces.com/profile/Skybytskyi.Nikita)
+[![codeforces](https://cp-logo.vercel.app/codeforces/Skybytskyi.Nikita?logo=true)](https://codeforces.com/profile/Roll_Num_44)
 [![codechef](https://cp-logo.vercel.app/codechef/sky_nik?logo=true)](https://www.codechef.com/users/sky_nik)
 [![binarysearch](https://binarysearch.com/api/shields/nskybytskyi)](https://binarysearch.com/@/nskybytskyi)
 [![atcder](https://cp-logo.vercel.app/atcoder/nskybytskyi?logo=true)](https://atcoder.jp/users/nskybytskyi -->
@@ -125,8 +125,8 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 <!-- Place this tag where you want the button to render. -->
 ⭐<a class="github-button" href="https://github.com/TamimEhsan/TamimEhsan" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star TamimEhsan/TamimEhsan on GitHub">Star this repository</a>
 
-[website]: https://tamimehsan.github.io/
+[website]: https://raihanulislamnahid.github.io/
 [instagram]: https://instagram.com/tamim.ehsan
 [facebook]: https://www.facebook.com/tamimul.ehsan.9/
-[codeforces]:https://codeforces.com/profile/TamimEhsan
-[linkedin]:https://www.linkedin.com/in/tamimehsan/
+[codeforces]:https://www.codechef.com/users/pi_3_14159265
+[linkedin]:https://www.linkedin.com/in/raihanulislamnahid/
