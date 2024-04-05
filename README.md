@@ -241,9 +241,8 @@ I have a strong command of programming languages such as C, C++, C#, Java, Pytho
 <code><img height= "70" alt="certified scrum master" src="https://github.com/RaihanulIslamNahid/assets/blob/main/codejam.png"></code>
 <code><img height= "70" alt="certified scrum master" src="https://github.com/RaihanulIslamNahid/assets/blob/main/meta.png"></code>
 <code><img height= "70" alt="certified scrum master" src="https://github.com/RaihanulIslamNahid/assets/blob/main/mlsa.png"></code>
-<code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/Language%20C%20Trainer%20Certificate.jpeg"></code>
-<code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/Mentor_Certificates.jpeg"></code>
-<code><img height= "70" alt="certified scrum master" src="https://github.com/coderskamrul/assets/blob/main/Book%20Reading.jpeg"></code>
+<code><img height= "70" alt="certified scrum master" src="https://github.com/RaihanulIslamNahid/assets/blob/main/link.jpeg"></code>
+
 
 
 > Profiles:
