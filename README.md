@@ -13,24 +13,7 @@
  <p align="center">
   <a href="https://www.youtube.com/@roll_num_44"><img width="32px" alt="Youtube" title="Youtube" src="./img/yutube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="#"><img width="32px" alt="bilibili" title="Bilibili" src="./img/bilibili.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/naemazam/HackerRank-Solutions"><img width="32px" alt="hacker Rank" title="Hackerrank" src="./img/hr.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="CodePen" title="codepen" src="./img/codepen.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="StacoverFlow" title="StacoverFlow" src="./img/stac.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@naemazam"><img width="32px" alt="Medium" title="Medium" src="./img/medium%20(2).png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/"><img width="32px" alt="Dev.to" title="naem dev" src="./img/dev-32.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.buymeacoffee.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./img/coffee.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.patreon.com/theterminalboy"><img width="32px" alt="Paid Stuff" title="pareon" src="https://img.icons8.com/color/48/000000/patreon.png"/></a>
-</p>
-
-
+  
 <!-- social -->
  <p align="center">
   <a href="https://twitter.com/coderskamrul" alt="Twitter"><img width="32px" src="./img/twitter.png"/></a>
@@ -89,11 +72,11 @@ I have a strong command of programming languages such as C, C++, C#, Java, Pytho
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 🤔 &emsp;I’m looking for .....<br/>
-:e-mail: &emsp;How to reach me: mdkamrul2058@gmail.com.<br/>
+:e-mail: &emsp;How to reach me: raihanulislamnahid22@gmail.com.<br/>
 
 #### Business
 
-:email: &emsp;mdkamrul2058@gmail.com
+:email: &emsp;raihanulislamnahid22@gmail.com
  <br/>
   <br/>
 <h2 align="left" id="naemazam">Dev-Hub</h2>
