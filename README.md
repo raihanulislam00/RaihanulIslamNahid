@@ -16,13 +16,13 @@
   
 <!-- social -->
  <p align="center">
-  <a href="https://twitter.com/coderskamrul" alt="Twitter"><img width="32px" src="./img/twitter.png"/></a>
+  <a href="https://twitter.com/raihanulislam00" alt="Twitter"><img width="32px" src="./img/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/coderskamrul/" alt="LinkedIN"><img width="32px" src="./img/linked.png"/></a>
+  <a href="https://www.linkedin.com/in/raihanulislamnahid/" alt="LinkedIN"><img width="32px" src="./img/linked.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/coderskamrul" alt="FaceBook"><img width="32px" src="./img/fb.png"/></a>
+  <a href="https://www.facebook.com/raihanulislamnahid44" alt="FaceBook"><img width="32px" src="./img/fb.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/coderskamrul/" alt="Instagram"><img width="32px" src="./img/insta.png"/></a>
+  <a href="https://www.instagram.com/raihanulislam00/" alt="Instagram"><img width="32px" src="./img/insta.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#" alt="Discord"><img width="32px" src="./img/discord-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
