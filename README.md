@@ -9,11 +9,6 @@
 
  <h1 align="center">Hi 👋, I'm a Compatitive Programmer!</h1>
 
-  <!-- platfrom -->
- <p align="center">
-  <a href="https://www.youtube.com/@roll_num_44"><img width="32px" alt="Youtube" title="Youtube" src="./img/yutube.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
 <!-- social -->
  <p align="center">
   <a href="https://twitter.com/raihanulislam00" alt="Twitter"><img width="32px" src="./img/twitter.png"/></a>
@@ -24,7 +19,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/raihanulislam00/" alt="Instagram"><img width="32px" src="./img/insta.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="Discord"><img width="32px" src="./img/discord-48.png"/></a>
+  <a href="https://discord.com/users/1151562888931192832" alt="Discord"><img width="32px" src="./img/discord-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
