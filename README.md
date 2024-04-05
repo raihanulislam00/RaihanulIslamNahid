@@ -248,10 +248,9 @@ I have a strong command of programming languages such as C, C++, C#, Java, Pytho
 
 > Profiles:
 <p align="left">
-<a href="https://codeforces.com/profile/R0ll_Num_44/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/lightoj.png" alt="hmdkamrul" height="50" width="50" /></a>
+<a href="https://codeforces.com/profile/Roll_Num_44" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/lightoj.png" alt="hmdkamrul" height="50" width="50" /></a>
   <a href="https://leetcode.com/rayan22/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/leetcode.png" alt="hmdkamrul" height="50" width="50" /></a>
-  <a href="https://codechef.com/users/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/codechef.png" alt="hmdkamrul" height="50" width="50" /></a>
-  <a href="https://lightoj.com/user/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/lightoj.png" alt="hmdkamrul" height="50" width="50" /></a>
+  <a href="https://www.codechef.com/users/pi_3_14159265" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/codechef.png" alt="hmdkamrul" height="50" width="50" /></a>
   <a href="https://www.hackerrank.com/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/hackerrank.png" alt="hmdkamrul" height="50" width="50" /></a>
   <a href="https://atcoder.jp/users/Roll_Num_44/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/atcoder.png" alt="hmdkamrul" height="50" width="50" /></a>
   <a href="https://spoj.com/users/hmdkamrul/" target="blank"><img align="center" src="https://github.com/hmdkamrul/assets/blob/main/spoj.jpeg" alt="hmdkamrul" height="50" width="50" /></a>
