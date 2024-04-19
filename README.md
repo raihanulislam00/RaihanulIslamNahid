@@ -15,6 +15,9 @@ I'm Raihanul Islam, a passionate Competitive Programmer and dedicated algorithmi
 ## 📊 Languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaihanulIslamNahid&layout=compact&theme=radical)](https://github.com/RaihanulIslamNahid)
+## 🌟 Experiences
+- [x] Student Ambassadors in Microsoft (October 2023 – Present)
+- [x] Campus Ambassador in Hackules Inc.(Jan 2024 – Present)
 
 ## 🌟 Achievements
 
