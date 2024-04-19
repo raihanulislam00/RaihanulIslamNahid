@@ -20,6 +20,9 @@ I'm Raihanul Islam, a passionate Competitive Programmer and dedicated algorithmi
 
 - [x] Consistently participating in competitive programming contests.
 - [x] Mastering algorithms and data structures.
+- [x] [Percent in Google Code Jam 2022](https://drive.google.com/file/d/18iKJXFr-qhySIlcql1UCNrjVseJveZYy/view?usp=sharing)
+- [x] [Percent in Meta Hacker Cup 2023](https://drive.google.com/file/d/1bJKbPWinJ2EWXwFvp5XdIlAPGLi05aAF/view)
+- [x] [Beta Microsoft Student Learn Ambassador](https://drive.google.com/file/d/1bGpuzP0Bv8oPyYsqmHx0f2stMtTiP-6L/view)
 
 ## 📫 Connect with Me
 
